@@ -12,3 +12,5 @@ You can change the FOV in the code.
 Removes the flashbang effect.
 
 ---
+
+Telegram: https://t.me/+A_Fi-cj3EQplNmJk
