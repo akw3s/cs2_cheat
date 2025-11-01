@@ -12,4 +12,4 @@ dwLocalPlayerController = pm.read_longlong(client.lpBaseOfDll + 0x1E16870) # Rea
 dwLocalPlayerPawn = pm.read_longlong(client.lpBaseOfDll + 0x1BE7DA0) # Read the local player pawn address
 
 pm.write_int(dwLocalPlayerController +0x77C,120) # FOV
-pm.write_float(dwLocalPlayerPawn +0x160C,150.0) # Flashbang duration
+pm.write_float(dwLocalPlayerPawn +0x160C,50.0) # Flashbang duration
