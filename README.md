@@ -3,3 +3,12 @@
 **WARNING!** Use this software on your risk, using third party software can lead to in game ban.
 
 ---
+
+## 🚀 Features
+
+* FOV Changer:
+You can change the FOV in the code.
+* Anti-Flash:
+Removes the flashbang effect.
+
+---
